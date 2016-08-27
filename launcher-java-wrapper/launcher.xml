@@ -4,12 +4,12 @@
   <headerType>gui</headerType>
   <jar>C:\Users\Jens\Documents\GitHub\en-chance\launcher\launcher\build\libs\launcher-4.3-SNAPSHOT-all.jar</jar>
   <outfile>C:\Users\Jens\Desktop\launcher.exe</outfile>
-  <errTitle>Java fejl</errTitle>
+  <errTitle>En fejl er opstået</errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
   <priority>normal</priority>
   <downloadUrl>http://java.com/download</downloadUrl>
-  <supportUrl></supportUrl>
+  <supportUrl>Skriv til Jens</supportUrl>
   <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>
   <manifest></manifest>
@@ -24,12 +24,12 @@
     <runtimeBits>64/32</runtimeBits>
   </jre>
   <versionInfo>
-    <fileVersion>0.0.0.4</fileVersion>
-    <txtFileVersion>0.0.0.4 Alpha</txtFileVersion>
-    <fileDescription>Én Chance</fileDescription>
+    <fileVersion>0.0.0.5</fileVersion>
+    <txtFileVersion>0.0.0.5 Alpha</txtFileVersion>
+    <fileDescription>Én Chance java wrapper.</fileDescription>
     <copyright>2016 Jens Møller</copyright>
-    <productVersion>0.0.0.4</productVersion>
-    <txtProductVersion>0.0.0.4 Alpha</txtProductVersion>
+    <productVersion>0.0.0.5</productVersion>
+    <txtProductVersion>0.0.0.5 Alpha</txtProductVersion>
     <productName>Én Chance Launcher</productName>
     <companyName>jensz12.com</companyName>
     <internalName>Én Chance Launcher</internalName>
