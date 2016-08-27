@@ -1,0 +1,161 @@
+{
+    "images":
+    {
+        "transparent":
+        {
+            "image" : "custommainmenu:textures/gui/blacktransparent.png",
+            "posX" : -50,
+            "posY" : -50,
+            "width" : 100,
+            "height" : 120,
+            "alignment" : "center"
+        },
+       
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/logo.png",
+            "posX" : -206,
+            "posY" : -150,
+            "width" : 432,
+            "height" : 64,
+            "alignment" : "center"
+        }
+    },
+   
+    "buttons":  {
+        "singleplayer":  {
+            "text" : "menu.singleplayer",
+            "posX" : -50,
+            "posY" : -50,
+            "width" : 100,
+            "height" : 20,
+			"texture" : "custommainmenu:textures/gui/blacktransparentbutton.png",
+            "alignment" : "center",
+            "shadow" : false,
+			"action":  {
+                "type": "openGui",
+                "gui":  "singleplayer"
+            }
+        },
+       
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -50,
+            "posY" : -30,
+            "width" : 100,
+            "height" : 20,
+			"texture" : "custommainmenu:textures/gui/blacktransparentbutton.png",
+            "alignment" : "center",
+            "shadow" : false,
+			"action":  {
+                "type": "openGui",
+                "gui":  "multiplayer"
+            }
+        },
+       
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : -50,
+            "posY" : -10,
+            "width" : 100,
+            "height" : 20,
+			"texture" : "custommainmenu:textures/gui/blacktransparentbutton.png",
+            "alignment" : "center",
+            "shadow" : false,
+			 "action":  {
+                "type": "openGui",
+                "gui":  "mods"
+            }
+        },
+           
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -50,
+            "posY" : 10,
+            "width" : 100,
+            "height" : 20,
+			"texture" : "custommainmenu:textures/gui/blacktransparentbutton.png",
+            "alignment" : "center",
+            "shadow" : false,
+			"action":  {
+                "type": "openGui",
+                "gui":  "options"
+            }
+        },
+       
+        "language":
+        {
+            "text" : "Language",
+            "posX" : -50,
+            "posY" : 30,
+            "width" : 100,
+            "height" : 20,
+			"texture" : "custommainmenu:textures/gui/blacktransparentbutton.png",
+            "alignment" : "center",
+            "shadow" : false,
+			"action":  {
+                "type": "openGui",
+				"gui": "languages"
+            }
+        },
+       
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -50,
+            "posY" : 50,
+            "width" : 100,
+            "height" : 20,
+			"texture" : "custommainmenu:textures/gui/blacktransparentbutton.png",
+            "alignment" : "center",
+            "shadow" : false,
+			"action":  {
+                "type": "quit"
+            }
+        }
+    },
+   
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -205,
+            "posY" : -15,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+		
+		"fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -50,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+		"prima":
+		{
+			"text" : "Sponsoreret af Primaservers",
+			"posX" : 2,
+			"posY" : -15,
+			"color" : -1,
+			"alignment" : "bottom_left"
+		}
+    },
+   
+    "other":
+    {
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}
