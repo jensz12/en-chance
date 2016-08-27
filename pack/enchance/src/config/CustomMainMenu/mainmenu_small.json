@@ -17,7 +17,7 @@
             "posX" : -206,
             "posY" : -250,
             "width" : 432,
-            "height" : 64,
+            "height" : 120,
             "alignment" : "center"
         }
     },
@@ -151,7 +151,7 @@
     {
         "panorama":
         {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "images" : "custommainmenu:textures/gui/panorama_%c.png",
             "animate" : true,
             "animationSpeed" : 1,
             "blur" : true,

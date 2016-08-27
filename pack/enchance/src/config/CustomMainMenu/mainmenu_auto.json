@@ -14,10 +14,10 @@
         "title":
         {
             "image" : "custommainmenu:textures/gui/logo.png",
-            "posX" : -110,
-            "posY" : -100,
-            "width" : 216,
-            "height" : 32,
+            "posX" : -150,
+            "posY" : -125,
+            "width" : 300,
+            "height" : 90,
             "alignment" : "center"
         }
     },
@@ -151,7 +151,7 @@
     {
         "panorama":
         {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "images" : "custommainmenu:textures/gui/panorama_%c.png",
             "animate" : true,
             "animationSpeed" : 1,
             "blur" : true,
