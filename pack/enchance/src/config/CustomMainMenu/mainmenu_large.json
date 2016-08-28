@@ -25,10 +25,12 @@
     "buttons":  {
         "singleplayer":  {
             "text" : "menu.singleplayer",
+			"hoverText" : "Forever alone",
             "posX" : -50,
             "posY" : -50,
             "width" : 100,
             "height" : 20,
+			"normalTextColor" : 16767487,
 			"texture" : "custommainmenu:textures/gui/blacktransparentbutton.png",
             "alignment" : "center",
             "shadow" : false,
@@ -45,6 +47,7 @@
             "posY" : -30,
             "width" : 100,
             "height" : 20,
+			"normalTextColor" : 16767487,
 			"texture" : "custommainmenu:textures/gui/blacktransparentbutton.png",
             "alignment" : "center",
             "shadow" : false,
@@ -61,6 +64,7 @@
             "posY" : -10,
             "width" : 100,
             "height" : 20,
+			"normalTextColor" : 16767487,
 			"texture" : "custommainmenu:textures/gui/blacktransparentbutton.png",
             "alignment" : "center",
             "shadow" : false,
@@ -77,6 +81,7 @@
             "posY" : 10,
             "width" : 100,
             "height" : 20,
+			"normalTextColor" : 16767487,
 			"texture" : "custommainmenu:textures/gui/blacktransparentbutton.png",
             "alignment" : "center",
             "shadow" : false,
@@ -93,6 +98,7 @@
             "posY" : 30,
             "width" : 100,
             "height" : 20,
+			"normalTextColor" : 16767487,
 			"texture" : "custommainmenu:textures/gui/blacktransparentbutton.png",
             "alignment" : "center",
             "shadow" : false,
@@ -105,10 +111,12 @@
         "quit":
         {
             "text" : "menu.quit",
+			"hoverText" : ":-(",
             "posX" : -50,
             "posY" : 50,
             "width" : 100,
             "height" : 20,
+			"normalTextColor" : 16767487,
 			"texture" : "custommainmenu:textures/gui/blacktransparentbutton.png",
             "alignment" : "center",
             "shadow" : false,
@@ -125,7 +133,7 @@
             "text" : "Copyright Mojang AB. Do not distribute!",
             "posX" : -205,
             "posY" : -15,
-            "color" : -1,
+            "color" : 16767487,
             "alignment" : "bottom_right"
         },
 		
@@ -134,7 +142,7 @@
             "text" : "",
             "posX" : 2,
             "posY" : -50,
-            "color" : -1,
+            "color" : 16767487,
             "alignment" : "bottom_left"
         },
 		"prima":
@@ -142,7 +150,7 @@
 			"text" : "Sponsoreret af Primaservers",
 			"posX" : 2,
 			"posY" : -15,
-			"color" : -1,
+			"color" : 16767487,
 			"alignment" : "bottom_left"
 		}
     },
@@ -156,6 +164,13 @@
             "animationSpeed" : 1,
             "blur" : true,
             "gradient" : true
+        },
+		"splash-text":
+        {
+            "posX" : 90,
+            "posY" : 80,
+            "color" : 16767487,
+            "alignment" : "top_center"
         }
     }
 }
