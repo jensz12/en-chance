@@ -52,11 +52,10 @@
             "alignment" : "center",
             "shadow" : false,
 			"action":  {
-                "type": "openGui",
-                "gui":  "multiplayer"
+                "type": "connectToServer",
+                "ip":  "176.31.21.147:25565"
             }
         },
-       
         "mods":
         {
             "text" : "fml.menu.mods",
