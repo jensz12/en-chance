@@ -10,7 +10,7 @@
             "height" : 120,
             "alignment" : "center"
         },
-       
+
         "title":
         {
             "image" : "menu:logo/logo.png",
@@ -21,7 +21,7 @@
             "alignment" : "center"
         }
     },
-   
+
     "buttons":  {
         "singleplayer":  {
             "text" : "menu.singleplayer",
@@ -39,7 +39,7 @@
                 "gui":  "singleplayer"
             }
         },
-       
+
         "multiplayer":
         {
             "text" : "menu.multiplayer",
@@ -72,7 +72,7 @@
                 "gui":  "mods"
             }
         },
-           
+
         "options":
         {
             "text" : "menu.options",
@@ -89,7 +89,7 @@
                 "gui":  "options"
             }
         },
-       
+
         "language":
         {
             "text" : "Language",
@@ -106,7 +106,7 @@
 				"gui": "languages"
             }
         },
-       
+
         "quit":
         {
             "text" : "menu.quit",
@@ -124,7 +124,7 @@
             }
         }
     },
-   
+
     "texts":
     {
         "mojang":
@@ -135,25 +135,17 @@
             "color" : 16767487,
             "alignment" : "bottom_right"
         },
-		
+
 		"fml":
         {
             "text" : "",
             "posX" : 2,
-            "posY" : -50,
+            "posY" : -40,
             "color" : 16767487,
             "alignment" : "bottom_left"
-        },
-		"prima":
-		{
-			"text" : "Sponsoreret af Primaservers",
-			"posX" : 2,
-			"posY" : -15,
-			"color" : 16767487,
-			"alignment" : "bottom_left"
-		}
+        }
     },
-   
+
     "other":
     {
         "panorama":

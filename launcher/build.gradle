@@ -1,8 +1,8 @@
 println """
 *******************************************
- You are building SKCraft Launcher! 
+ Du bygger Én Chance launcher! 
 
- Output files will be in [subproject]/build/libs
+ Filerne vil være i [subproject]/build/libs
 *******************************************
 """
 
