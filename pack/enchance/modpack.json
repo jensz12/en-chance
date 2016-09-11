@@ -2,7 +2,22 @@
   "name" : "enchance",
   "title" : "Én Chance",
   "gameVersion" : "1.10.2",
-  "features" : [ ],
+  "features" : [
+    {
+      "properties" : {
+        "name" : "Optifine",
+        "description" : "OptiFine is a Minecraft optimization mod.\nIt allows Minecraft to run faster and look better with full support for HD textures and many configuration options.",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/OptiFine_1.10.2_HD_U_C3.jar"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
   "userFiles" : {
     "include" : [
       "options.txt",
