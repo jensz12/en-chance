@@ -1,0 +1,33 @@
+{
+  "name" : "enchancedev",
+  "title" : "Én Chance - Dev",
+  "gameVersion" : "1.10.2",
+  "features" : [
+    {
+      "properties" : {
+        "name" : "Optifine",
+        "description" : "Ingen Optifine <3",
+        "recommendation" : "avoid",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/OptiFine_1.10.2_HD_U_C3.jar"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
+  "userFiles" : {
+    "include" : [
+      "options.txt",
+      "optionsshaders.txt"
+    ],
+    "exclude" : [ ]
+  },
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  }
+}
