@@ -1,1 +1,1 @@
-pack200 --no-gzip launcher.jar.pack launcher-4.3.7-all.jar
+pack200 --no-gzip launcher.jar.pack launcher-4.4.0-all.jar

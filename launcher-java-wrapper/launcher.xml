@@ -2,7 +2,7 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>C:\Users\Jens\Documents\GitHub\en-chance\launcher\launcher-bootstrap\build\libs\launcher-bootstrap-4.3.2-all.jar</jar>
+  <jar>C:\Users\Jens\Documents\GitHub\en-chance\launcher\launcher-bootstrap\build\libs\launcher-bootstrap-4.4.0-all.jar</jar>
   <outfile>C:\Users\Jens\Desktop\launcher.exe</outfile>
   <errTitle>En fejl er opstået</errTitle>
   <cmdLine></cmdLine>
@@ -24,12 +24,12 @@
     <runtimeBits>64/32</runtimeBits>
   </jre>
   <versionInfo>
-    <fileVersion>0.0.0.6</fileVersion>
-    <txtFileVersion>0.0.0.6 Alpha</txtFileVersion>
+    <fileVersion>1.0.0.1</fileVersion>
+    <txtFileVersion>1.0.0.1</txtFileVersion>
     <fileDescription>Én Chance - Launcher</fileDescription>
     <copyright>2016 Jens Møller</copyright>
-    <productVersion>0.0.0.6</productVersion>
-    <txtProductVersion>0.0.0.6 Alpha</txtProductVersion>
+    <productVersion>1.0.0.1</productVersion>
+    <txtProductVersion>1.0.0.1</txtProductVersion>
     <productName>Én Chance Launcher</productName>
     <companyName>jensz12.com</companyName>
     <internalName>Én Chance Launcher</internalName>
