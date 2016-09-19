@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "En Chance",
-  "version": "1.1",
+  "version": "1.1.1",
   "author": "jensz12",
   "files": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "projectID": 74072,
-      "fileID": 2323524,
+      "fileID": 2330969,
       "required": true
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "projectID": 235279,
-      "fileID": 2315165,
+      "fileID": 2331062,
       "required": true
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 2330210,
+      "fileID": 2330604,
       "required": true
     },
     {
@@ -152,6 +152,21 @@
     {
       "projectID": 78779,
       "fileID": 2310672,
+      "required": true
+    },
+    {
+      "projectID": 243822,
+      "fileID": 2323196,
+      "required": true
+    },
+    {
+      "projectID": 225839,
+      "fileID": 2301239,
+      "required": true
+    },
+    {
+      "projectID": 236199,
+      "fileID": 2328528,
       "required": true
     }
   ],
