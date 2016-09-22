@@ -5,4 +5,4 @@ Her finder du build filer til modpacken og launcheren. Og build fil til java wra
 
 
 [Launcher](https://jz12.dk/launcher)
-<br />[Curse pack](https://minecraft.curseforge.com/projects/n-chance)
+<br />[Curse pack](https://minecraft.curseforge.com/projects/en-chance)
