@@ -11,8 +11,9 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "En Chance",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "jensz12",
+  "projectID": 251090,
   "files": [
     {
       "projectID": 74924,
@@ -21,7 +22,7 @@
     },
     {
       "projectID": 74072,
-      "fileID": 2330969,
+      "fileID": 2333478,
       "required": true
     },
     {
@@ -41,12 +42,12 @@
     },
     {
       "projectID": 79287,
-      "fileID": 2323797,
+      "fileID": 2332191,
       "required": true
     },
     {
       "projectID": 228756,
-      "fileID": 2321288,
+      "fileID": 2331308,
       "required": true
     },
     {
@@ -61,12 +62,12 @@
     },
     {
       "projectID": 221857,
-      "fileID": 2320919,
+      "fileID": 2333209,
       "required": true
     },
     {
       "projectID": 235279,
-      "fileID": 2331062,
+      "fileID": 2331665,
       "required": true
     },
     {
@@ -81,17 +82,17 @@
     },
     {
       "projectID": 220318,
-      "fileID": 2329245,
+      "fileID": 2332944,
       "required": true
     },
     {
       "projectID": 59816,
-      "fileID": 2320913,
+      "fileID": 2332494,
       "required": true
     },
     {
       "projectID": 242638,
-      "fileID": 2329348,
+      "fileID": 2331549,
       "required": true
     },
     {
@@ -106,32 +107,27 @@
     },
     {
       "projectID": 223896,
-      "fileID": 2320791,
+      "fileID": 2334213,
       "required": true
     },
     {
       "projectID": 223891,
-      "fileID": 2328213,
+      "fileID": 2333728,
       "required": true
     },
     {
       "projectID": 226780,
-      "fileID": 2316921,
+      "fileID": 2333812,
       "required": true
     },
     {
       "projectID": 244584,
-      "fileID": 2305183,
+      "fileID": 2332793,
       "required": true
     },
     {
       "projectID": 226321,
       "fileID": 2301408,
-      "required": true
-    },
-    {
-      "projectID": 237226,
-      "fileID": 2317938,
       "required": true
     },
     {
@@ -161,7 +157,7 @@
     },
     {
       "projectID": 225839,
-      "fileID": 2301239,
+      "fileID": 2331933,
       "required": true
     },
     {
