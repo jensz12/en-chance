@@ -2,7 +2,7 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>C:\Users\Jens\Documents\GitHub\en-chance\launcher\launcher-bootstrap\build\libs\launcher-bootstrap-4.4.0-all.jar</jar>
+  <jar>C:\Users\Jens\Documents\GitHub\en-chance\launcher\launcher-bootstrap\build\libs\launcher-bootstrap-4.4.1-all.jar</jar>
   <outfile>C:\Users\Jens\Desktop\launcher.exe</outfile>
   <errTitle>En fejl er opstået</errTitle>
   <cmdLine></cmdLine>
@@ -19,7 +19,7 @@
     <bundledJre64Bit>false</bundledJre64Bit>
     <bundledJreAsFallback>false</bundledJreAsFallback>
     <minVersion>1.8.0</minVersion>
-    <maxVersion>1.8.0_102</maxVersion>
+    <maxVersion>1.8.0_111</maxVersion>
     <jdkPreference>preferJre</jdkPreference>
     <runtimeBits>64/32</runtimeBits>
   </jre>
